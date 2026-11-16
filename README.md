@@ -1,114 +1,206 @@
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hemang67&theme=highcontrast" alt="GitHub Profile Summary" /> </p> <h1 align="center">Hi there, I'm Hemang! 👋</h1> <p align="center"> 🚀 Senior Full Stack Developer | 💻 .NET Core, React, Next.js | 🤖 AI-Assisted Development | 🌍 Vadodara, India </p> <p align="center"> <a href="https://hemang-rathod.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-HemangOS-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /> </a> <img src="https://komarev.com/ghpvc/?username=Hemang67&style=for-the-badge&color=blue&label=Profile+Views" alt="Profile views" /> </p>
-👨‍💻 About Me
+<!-- HemangOS profile README · theme matches https://hemang-rathod.vercel.app -->
 
-I'm Hemang Rathod, a Senior Full Stack Developer with 7+ years of experience building enterprise ERP, CRM, and cloud reporting systems end to end — from data model to deployment. I've shipped order-management platforms, multi-vendor e-commerce systems, biometric workforce tools, and Power BI-driven analytics. I specialize in:
+<p align="center">
+  <a href="https://hemang-rathod.vercel.app/">
+    <img src="assets/hemangos-boot.svg" width="100%" alt="HemangOS boot screen — Hemang Rathod, Senior Full Stack Developer" />
+  </a>
+</p>
 
-✅ React, Next.js, Angular, TypeScript, Tailwind CSS on the frontend
-✅ C#, .NET Core, Web APIs, Entity Framework, Node.js, SignalR on the backend
-✅ SQL Server, Azure SQL, PostgreSQL, MySQL, Supabase for data storage
-✅ Azure, AWS, CI/CD for cloud & DevOps
-✅ Power BI & Power Platform for reporting and business automation
-✅ Flutter & Dart for Android apps
-✅ Claude AI, LLM Integration, Agentic AI for AI-assisted development
-🧰 Tech Stack
-Frontend & Mobile	Backend	Databases	Cloud & DevOps	Power Platform	AI
-React, Next.js, Angular, TypeScript, JavaScript, HTML5, CSS3, Tailwind, Flutter, Dart	C#, .NET Core, Web APIs, EF Core, Node.js, REST, Microservices, SignalR	SQL Server, Azure SQL, PostgreSQL, MySQL, GraphQL, Supabase	Azure, AWS, CI/CD, Vercel	Power BI, Power Apps, Power Automate, Power Pages, SharePoint, Dataverse	Claude AI, Prompt Engineering, LLM Integration, Agentic AI
-<p align="left"> <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,html,css,tailwind,flutter,dart,cs,dotnet,nodejs,graphql,postgres,mysql,supabase,azure,aws,vercel,git,github&perline=10" alt="Skill icons" /> </p>
-📊 GitHub Stats
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hemang67&show_icons=true&theme=highcontrast&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemang67&layout=compact&theme=highcontrast&hide_border=true&langs_count=8" alt="Top Languages" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=Hemang67&theme=highcontrast&hide_border=true" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hemang67&theme=highcontrast" alt="Repos per Language" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hemang67&theme=highcontrast" alt="Most Commit Language" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hemang67&theme=highcontrast" alt="Stats" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hemang67&theme=highcontrast&utcOffset=5.5" alt="Productive Time" /> </p> <p align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hemang67&theme=high-contrast&hide_border=true&area=true" alt="Contribution Graph" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Hemang67&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" /> </p>
-🔗 Activity Across Both My GitHub Accounts
+<p align="center">
+  <a href="https://hemang-rathod.vercel.app/"><img src="assets/apps/terminal.svg" width="76" alt="Terminal" /></a>
+  <a href="#about"><img src="assets/apps/about.svg" width="76" alt="About Me" /></a>
+  <a href="#skills"><img src="assets/apps/skills.svg" width="76" alt="Skills" /></a>
+  <a href="#projects"><img src="assets/apps/projects.svg" width="76" alt="Projects" /></a>
+  <a href="#mobile"><img src="assets/apps/mobile.svg" width="76" alt="Mobile" /></a>
+  <a href="#stats"><img src="assets/apps/stats.svg" width="76" alt="Stats" /></a>
+  <a href="#timeline"><img src="assets/apps/timeline.svg" width="76" alt="Timeline" /></a>
+  <a href="#timeline"><img src="assets/apps/certs.svg" width="76" alt="Certifications" /></a>
+  <a href="#contact"><img src="assets/apps/contact.svg" width="76" alt="Contact" /></a>
+  <a href="https://hemang-rathod.vercel.app/"><img src="assets/apps/askai.svg" width="76" alt="Ask AI" /></a>
+</p>
 
-I commit from two accounts — @Hemang67 (personal & open-source) and @HR-Techovarya (Techovarya). Here's both, side by side:
+<p align="center">
+  <sub>Tap an app to open it · want the real OS? <a href="https://hemang-rathod.vercel.app/"><b>boot HemangOS ↗</b></a> — terminal, desktop & mobile modes</sub>
+</p>
 
-	@Hemang67	@HR-Techovarya
-Stats	<img src="https://github-readme-stats.vercel.app/api?username=Hemang67&show_icons=true&theme=highcontrast&hide_border=true&include_all_commits=true" width="100%" />	<img src="https://github-readme-stats.vercel.app/api?username=HR-Techovarya&show_icons=true&theme=highcontrast&hide_border=true&include_all_commits=true" width="100%" />
-Streak	<img src="https://streak-stats.demolab.com?user=Hemang67&theme=highcontrast&hide_border=true" width="100%" />	<img src="https://streak-stats.demolab.com?user=HR-Techovarya&theme=highcontrast&hide_border=true" width="100%" />
-📝 Commit Summary <sub>(snapshot · 16 Nov 2026)</sub>
-Repository	Account	Language	Commits
-Anuvaad-App	Hemang67	Dart	74
-NondhAI	Hemang67	TypeScript	31
-QAgent	Hemang67	TypeScript	6
-MovieAppTBD <sub>(fork)</sub>	Hemang67	JavaScript	4
-task-list-app	Hemang67	CSS	3
-Movie	Hemang67	JavaScript	2
-Hemang67 <sub>(profile)</sub>	Hemang67	Markdown	1
-HR-Techovarya <sub>(profile)</sub>	HR-Techovarya	Markdown	2
-Total	Both accounts		123
-Public contributions	2020	2023	2024	2026	All-time
-@Hemang67	2	3	–	138	143
-@HR-Techovarya	–	–	1	3	4
-Combined	2	3	1	141	147
-💼 Experience
-🏢 Techovarya Solutions — Sr. Software Engineer
+<p align="center">
+  <a href="https://hemang-rathod.vercel.app/"><img src="https://img.shields.io/badge/HemangOS-online-22d3ee?style=for-the-badge&labelColor=05070d" alt="HemangOS online" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Hemang67&style=for-the-badge&color=22d3ee&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/badge/status-available_for_opportunities-34d399?style=for-the-badge&labelColor=05070d" alt="Available for opportunities" />
+</p>
 
-Jun 2019 – Present
+<br/>
 
-Leading full-stack development projects, architecting scalable web applications, and integrating third-party APIs. Focused on .NET Core, React, and cloud technologies.
+<a name="about"></a>
+<img src="assets/section-about.svg" width="100%" alt="$ cat about.md" />
 
-🏢 WovVTech (Technocompass Consulting) — Software Development Intern
+<p align="center">
+  <img src="assets/whoami.svg" width="100%" alt="neofetch — Hemang Rathod" />
+</p>
 
-Jan 2019 – Apr 2019
+I'm **Hemang Rathod**, a Senior Full Stack Developer who builds enterprise **ERP, CRM, and cloud reporting systems** end to end — from data model to deployment. Over **7+ years** I've shipped order-management platforms, multi-vendor e-commerce systems, biometric workforce tools, and Power BI–driven analytics for teams that depend on the software actually working, not just demoing well.
 
-Started my professional journey learning software development fundamentals and contributing to web projects.
+<br/>
 
-🚧 Projects
-🔹 Gallop Brush ERP
+<a name="skills"></a>
+<img src="assets/section-skills.svg" width="100%" alt="$ ls ~/skills --all" />
 
-Full-featured ERP with order management, real-time updates, automated PDF invoices, and Google Maps–powered logistics. 🛠️ React 18, TypeScript, SignalR, .NET Core 6, SQL Server, Azure · 📈 Order processing +40%, manual work −70%
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,html,css,tailwind,flutter,dart,cs,dotnet,nodejs,graphql,postgres,mysql,supabase,azure,aws,vercel,git,github&perline=11&theme=dark" alt="Skill icons" />
+</p>
 
-🔹 Gallop Brush Website
+| `~/dir` | `ls` |
+|---|---|
+| `~/frontend` | React · Next.js · Angular · TypeScript · JavaScript · Tailwind CSS |
+| `~/backend` | C# · .NET Core · Web APIs · Entity Framework · Node.js · SignalR · Microservices |
+| `~/mobile` | Flutter · Dart · React Native |
+| `~/data` | SQL Server · Azure SQL · PostgreSQL · MySQL · GraphQL · Supabase |
+| `~/cloud` | Azure · AWS · CI/CD · Vercel |
+| `~/power-platform` | Power BI · Power Apps · Power Automate · Power Pages · SharePoint · Dataverse |
+| `~/ai` | Claude · Prompt Engineering · LLM Integration · Agentic AI |
 
-Multi-vendor e-commerce platform with catalog, cart, payments, order tracking, promotions, and analytics. 🛠️ Next.js, TypeScript, .NET Core 6, SQL Server, Azure, Clover · 📈 50+ vendors, 99.5% uptime
+<br/>
 
-🔹 Elite Report App
+<a name="projects"></a>
+<img src="assets/section-projects.svg" width="100%" alt="$ ls -la ~/projects" />
 
-Centralized e-commerce reporting across Amazon, Flipkart, Myntra, Zepto, Swiggy, Cred & Website with Power BI dashboards. 🛠️ Next.js 14, TypeScript, Supabase, Power BI, JWT + Email OTP 2FA · 📈 7+ channels, manual work −80%
+#### `▸ enterprise & client work`
 
-🔹 TimeClock & Visitor App
+<p align="center">
+  <a href="https://hemang-rathod.vercel.app/"><img src="assets/project-gallop-brush-erp.svg" width="49%" alt="Gallop Brush ERP" /></a>
+  <a href="https://hemang-rathod.vercel.app/"><img src="assets/project-gallop-brush-web.svg" width="49%" alt="Gallop Brush Website" /></a>
+  <a href="https://elite-report.vercel.app/"><img src="assets/project-elite-report.svg" width="49%" alt="Elite Report App" /></a>
+  <a href="https://hemang-rathod.vercel.app/"><img src="assets/project-timeclock-visitor.svg" width="49%" alt="TimeClock & Visitor App" /></a>
+  <a href="https://hemang-rathod.vercel.app/"><img src="assets/project-agency-easy.svg" width="49%" alt="Agency Easy" /></a>
+  <a href="https://hemang-rathod.vercel.app/"><img src="assets/project-scholars-club.svg" width="49%" alt="The Scholars Club" /></a>
+  <a href="https://hemang-rathod.vercel.app/"><img src="assets/project-vnc-edge.svg" width="49%" alt="VNC Edge" /></a>
+</p>
 
-Workforce time tracking and visitor management with biometric clock-in and badge printing. 🛠️ C#, .NET Core, WPF, React, SQL Server, SignalR, Biometric APIs · 📈 500+ employees tracked daily
+#### `▸ open source`
 
-🔹 Agency Easy
+<p align="center">
+  <a href="https://github.com/Hemang67/Anuvaad-App"><img src="assets/project-anuvaad.svg" width="49%" alt="Anuvaad" /></a>
+  <a href="https://github.com/Hemang67/NondhAI"><img src="assets/project-nondhai.svg" width="49%" alt="NondhAI" /></a>
+  <a href="https://github.com/Hemang67/QAgent"><img src="assets/project-qagent.svg" width="49%" alt="QAgent" /></a>
+</p>
 
-Social media analytics platform — unified reporting, scheduling, and ROI tracking. 🛠️ C#, React, .NET Core 6, SQL Server, Chart.js · 📈 8+ platforms integrated
+<br/>
 
-🔹 The Scholars Club
+<a name="mobile"></a>
+<img src="assets/section-mobile.svg" width="100%" alt="$ flutter run --release" />
 
-Educational marketplace connecting students with scholars — matching, payments, and mentorship. 🛠️ Next.js, .NET Core 6, EF Core, SignalR, Stripe, Azure · 📈 2000+ sessions, 4.8/5 satisfaction
+<table>
+  <tr>
+    <td width="42%" align="center">
+      <img src="assets/phone.svg" width="290" alt="HemangOS mobile shell" />
+    </td>
+    <td width="58%">
+      <h3>📱 Anuvaad <sup><code>early preview</code></sup></h3>
+      <p>Two-way <b>voice translation</b> for <b>English ⇄ Hindi ⇄ Gujarati</b> on Android.</p>
+      <ul>
+        <li>🛠️ Built with <b>Flutter &amp; Dart</b> (Android 10+)</li>
+        <li>🔄 Installed copies <b>update themselves</b> when a new release is published</li>
+        <li>🎨 Languages, themes and auto-update ready — translation features landing next</li>
+      </ul>
+      <p>
+        <a href="https://anuvaad-app.vercel.app/download"><img src="https://img.shields.io/badge/Download-APK-34d399?style=for-the-badge&logo=android&logoColor=white&labelColor=05070d" alt="Download APK" /></a>
+        <a href="https://github.com/Hemang67/Anuvaad-App"><img src="https://img.shields.io/badge/Source-Anuvaad--App-22d3ee?style=for-the-badge&logo=github&logoColor=white&labelColor=05070d" alt="Source" /></a>
+      </p>
+      <p><b>Also on mobile:</b> Flutter · React Native — and my portfolio itself boots a full <b>mobile shell</b> on phones.</p>
+    </td>
+  </tr>
+</table>
 
-🔹 VNC Edge
+<br/>
 
-Real-time data synchronization platform for business applications. 🛠️ Angular 13, .NET Core, SQL Server, Azure · 📈 10M+ transactions/day, 99.9% uptime
+<a name="stats"></a>
+<img src="assets/section-stats.svg" width="100%" alt="$ gh stats" />
 
-🔹 Anuvaad
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hemang67&show_icons=true&include_all_commits=true&count_private=true&bg_color=05070d&title_color=22d3ee&text_color=cbd5e1&icon_color=22d3ee&border_color=1e293b&ring_color=22d3ee" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemang67&layout=compact&langs_count=8&bg_color=05070d&title_color=22d3ee&text_color=cbd5e1&border_color=1e293b" alt="Top Languages" />
+</p>
 
-Two-way voice translation for English, Hindi and Gujarati on Android, with built-in automatic updates. Early preview — download the APK. 🛠️ Flutter, Dart, Android
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Hemang67&background=05070D&border=1E293B&stroke=1E293B&ring=22D3EE&fire=F97316&currStreakNum=22D3EE&sideNums=E2E8F0&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B" alt="GitHub Streak" />
+</p>
 
-🔹 NondhAI
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hemang67&bg_color=05070d&color=94a3b8&title_color=22d3ee&line=22d3ee&point=e2e8f0&area=true&area_color=22d3ee&hide_border=true&custom_title=hemang@hemangos%20~%20contribution%20graph" alt="Contribution Graph" />
+</p>
 
-Offline-first Windows app for dictation, meeting notes, screen recording, and video editing. 🛠️ TypeScript
+#### `▸ both accounts` &nbsp;—&nbsp; [@Hemang67](https://github.com/Hemang67) (personal & open source) · [@HR-Techovarya](https://github.com/HR-Techovarya) (Techovarya)
 
-🔹 QAgent
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hemang67&show_icons=true&include_all_commits=true&custom_title=%40Hemang67&bg_color=05070d&title_color=22d3ee&text_color=cbd5e1&icon_color=22d3ee&border_color=1e293b&ring_color=22d3ee" alt="@Hemang67 stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HR-Techovarya&show_icons=true&include_all_commits=true&custom_title=%40HR-Techovarya&bg_color=05070d&title_color=22d3ee&text_color=cbd5e1&icon_color=22d3ee&border_color=1e293b&ring_color=22d3ee" alt="@HR-Techovarya stats" />
+</p>
 
-Desktop app (Windows/Linux) that discovers pages in a web project, opens them in a browser, and reports broken behavior like failed API calls. 🛠️ TypeScript
+<details>
+<summary><b><code>$ git log --stat --all-accounts</code></b> &nbsp;—&nbsp; commit summary <sub>(snapshot · 16 Nov 2026)</sub></summary>
+<br/>
 
-🏅 Certifications
-🟦 Microsoft Certified: Power Platform Fundamentals — Mar 2022
-🟧 Anthropic: Claude Code in Action — Apr 2026
-🟧 Anthropic: AI Fluency — Framework & Foundations — Apr 2026
-🎓 Education
-MCA — G.H. Patel P.G. Dept. of Computer Science & Technology (2017 – 2019)
-BCA — Maharaja Krishnakumarsinhji Bhavnagar University (2014 – 2017)
-🌱 Currently Exploring
-🤖 Agentic AI & LLM Integration: Building AI-assisted tools and workflows with Claude
-📊 Reporting & Analytics: Power BI on Supabase/PostgreSQL for multi-channel business insights
-☁️ Cloud Architecture: Scalable cloud-native solutions on Azure and AWS
-🏭 Business Automation: ERP, CRM, and manufacturing software that removes manual work
-📬 Connect with Me
-<p align="left"> <a href="mailto:hemangrathod081@gmail.com"> <img src="https://img.shields.io/badge/Email-hemangrathod081@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" /> </a> &nbsp; <a href="https://www.linkedin.com/in/hemang-rathod-211a56134/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Hemang_Rathod-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /> </a> &nbsp; <a href="https://hemang-rathod.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-hemang--rathod.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge" /> </a> </p>
-🧑‍💻 GitHub Followers: Show Image
-⚡ Fun Fact
+| Repository | Account | Language | Commits |
+|---|---|---|---:|
+| [Anuvaad-App](https://github.com/Hemang67/Anuvaad-App) | Hemang67 | Dart | 74 |
+| [NondhAI](https://github.com/Hemang67/NondhAI) | Hemang67 | TypeScript | 31 |
+| [QAgent](https://github.com/Hemang67/QAgent) | Hemang67 | TypeScript | 6 |
+| [MovieAppTBD](https://github.com/Hemang67/MovieAppTBD) <sub>(fork)</sub> | Hemang67 | JavaScript | 4 |
+| [task-list-app](https://github.com/Hemang67/task-list-app) | Hemang67 | CSS | 3 |
+| [Movie](https://github.com/Hemang67/Movie) | Hemang67 | JavaScript | 2 |
+| [Hemang67](https://github.com/Hemang67/Hemang67) <sub>(profile)</sub> | Hemang67 | Markdown | 1 |
+| [HR-Techovarya](https://github.com/HR-Techovarya/HR-Techovarya) <sub>(profile)</sub> | HR-Techovarya | Markdown | 2 |
+| **Total** | **Both accounts** | | **123** |
 
-My portfolio is an operating system — HemangOS — with a terminal you can actually type commands into, plus a GUI mode if you prefer clicking 😉
+| Public contributions | 2020 | 2023 | 2024 | 2026 | **All-time** |
+|---|:---:|:---:|:---:|:---:|:---:|
+| @Hemang67 | 2 | 3 | – | 138 | **143** |
+| @HR-Techovarya | – | – | 1 | 3 | **4** |
+| **Combined** | 2 | 3 | 1 | 141 | **147** |
 
-👀 Thanks for stopping by! Let's connect and build something amazing together!
+</details>
+
+<br/>
+
+<a name="timeline"></a>
+<img src="assets/section-timeline.svg" width="100%" alt="$ git log --career" />
+
+```diff
+@@ experience @@
++ 2019-06 → now    Sr. Software Engineer · Techovarya Solutions
+                   Leading full-stack projects, scalable web apps & third-party API integrations
+                   (.NET Core · React · TypeScript · cloud)
++ 2019-01 → 04     Software Development Intern · WovVTech (Technocompass Consulting)
+                   Where it started — JavaScript, HTML/CSS, Node.js, React
+
+@@ education @@
++ 2017 → 2019      MCA · G.H. Patel P.G. Dept. of Computer Science & Technology
++ 2014 → 2017      BCA · Maharaja Krishnakumarsinhji Bhavnagar University
+
+@@ certifications @@
++ 2026-04-21       Anthropic · AI Fluency: Framework & Foundations
++ 2026-04-16       Anthropic · Claude Code in Action
++ 2022-03-07       Microsoft Certified · Power Platform Fundamentals
+```
+
+<br/>
+
+<a name="contact"></a>
+<img src="assets/section-contact.svg" width="100%" alt="$ ./connect.sh" />
+
+<p align="center">
+  <a href="mailto:hemangrathod081@gmail.com"><img src="https://img.shields.io/badge/Email-hemangrathod081@gmail.com-10b981?style=for-the-badge&logo=gmail&logoColor=white&labelColor=05070d" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/hemang-rathod-211a56134/"><img src="https://img.shields.io/badge/LinkedIn-Hemang_Rathod-3b82f6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=05070d" alt="LinkedIn" /></a>
+  <a href="https://hemang-rathod.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-HemangOS-22d3ee?style=for-the-badge&logo=vercel&logoColor=white&labelColor=05070d" alt="Portfolio" /></a>
+  <a href="https://github.com/HR-Techovarya"><img src="https://img.shields.io/badge/GitHub-HR--Techovarya-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=05070d" alt="HR-Techovarya on GitHub" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Hemang67?label=Follow%20%40Hemang67&style=social" alt="GitHub followers" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="assets/footer.svg" width="100%" alt="$ logout — thanks for stopping by" />
+</p>
