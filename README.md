@@ -82,6 +82,7 @@ I'm **Hemang Rathod**, a Senior Full Stack Developer who builds enterprise **ERP
   <a href="https://github.com/Hemang67/Anuvaad-App"><img src="assets/project-anuvaad.svg" width="49%" alt="Anuvaad" /></a>
   <a href="https://github.com/Hemang67/NondhAI"><img src="assets/project-nondhai.svg" width="49%" alt="NondhAI" /></a>
   <a href="https://github.com/Hemang67/QAgent"><img src="assets/project-qagent.svg" width="49%" alt="QAgent" /></a>
+  <a href="https://github.com/rathodkutumb-commits/HisabMitra"><img src="assets/project-hisabmitra.svg" width="49%" alt="HisabMitra" /></a>
 </p>
 
 <br/>
@@ -106,7 +107,7 @@ I'm **Hemang Rathod**, a Senior Full Stack Developer who builds enterprise **ERP
         <a href="https://anuvaad-app.vercel.app/download"><img src="https://img.shields.io/badge/Download-APK-34d399?style=for-the-badge&logo=android&logoColor=white&labelColor=05070d" alt="Download APK" /></a>
         <a href="https://github.com/Hemang67/Anuvaad-App"><img src="https://img.shields.io/badge/Source-Anuvaad--App-22d3ee?style=for-the-badge&logo=github&logoColor=white&labelColor=05070d" alt="Source" /></a>
       </p>
-      <p><b>Also on mobile:</b> Flutter · React Native — and my portfolio itself boots a full <b>mobile shell</b> on phones.</p>
+      <p><b>Also on mobile:</b> <a href="https://github.com/rathodkutumb-commits/HisabMitra"><b>HisabMitra</b></a> — English/Gujarati family money manager (Flutter) · React Native — and my portfolio itself boots a full <b>mobile shell</b> on phones.</p>
     </td>
   </tr>
 </table>
