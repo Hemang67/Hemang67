@@ -138,26 +138,26 @@ I'm **Hemang Rathod**, a Senior Full Stack Developer who builds enterprise **ERP
 </p>
 
 <details>
-<summary><b><code>$ git log --stat --all-accounts</code></b> &nbsp;—&nbsp; commit summary <sub>(snapshot · 16 Nov 2026)</sub></summary>
+<summary><b><code>$ git log --stat --all-accounts</code></b> &nbsp;—&nbsp; commit summary <sub>(snapshot · 23 Nov 2026)</sub></summary>
 <br/>
 
 | Repository | Account | Language | Commits |
 |---|---|---|---:|
 | [Anuvaad-App](https://github.com/Hemang67/Anuvaad-App) | Hemang67 | Dart | 74 |
-| [NondhAI](https://github.com/Hemang67/NondhAI) | Hemang67 | TypeScript | 31 |
-| [QAgent](https://github.com/Hemang67/QAgent) | Hemang67 | TypeScript | 6 |
+| [NondhAI](https://github.com/Hemang67/NondhAI) | Hemang67 | TypeScript | 37 |
+| [QAgent](https://github.com/Hemang67/QAgent) | Hemang67 | TypeScript | 8 |
 | [MovieAppTBD](https://github.com/Hemang67/MovieAppTBD) <sub>(fork)</sub> | Hemang67 | JavaScript | 4 |
 | [task-list-app](https://github.com/Hemang67/task-list-app) | Hemang67 | CSS | 3 |
 | [Movie](https://github.com/Hemang67/Movie) | Hemang67 | JavaScript | 2 |
-| [Hemang67](https://github.com/Hemang67/Hemang67) <sub>(profile)</sub> | Hemang67 | Markdown | 1 |
+| [Hemang67](https://github.com/Hemang67/Hemang67) <sub>(profile)</sub> | Hemang67 | Markdown | 5 |
 | [HR-Techovarya](https://github.com/HR-Techovarya/HR-Techovarya) <sub>(profile)</sub> | HR-Techovarya | Markdown | 2 |
-| **Total** | **Both accounts** | | **123** |
+| **Total** | **Both accounts** | | **135** |
 
 | Public contributions | 2020 | 2023 | 2024 | 2026 | **All-time** |
 |---|:---:|:---:|:---:|:---:|:---:|
-| @Hemang67 | 2 | 3 | – | 138 | **143** |
+| @Hemang67 | 2 | 3 | – | 149 | **154** |
 | @HR-Techovarya | – | – | 1 | 3 | **4** |
-| **Combined** | 2 | 3 | 1 | 141 | **147** |
+| **Combined** | 2 | 3 | 1 | 152 | **158** |
 
 </details>
 
