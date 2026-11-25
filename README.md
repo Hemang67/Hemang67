@@ -96,12 +96,13 @@ I'm **Hemang Rathod**, a Senior Full Stack Developer who builds enterprise **ERP
       <img src="assets/phone.svg" width="290" alt="HemangOS mobile shell" />
     </td>
     <td width="58%">
-      <h3>📱 Anuvaad <sup><code>early preview</code></sup></h3>
+      <h3>📱 Anuvaad <sup><code>live · v0.5.1</code></sup></h3>
       <p>Two-way <b>voice translation</b> for <b>English ⇄ Hindi ⇄ Gujarati</b> on Android.</p>
       <ul>
-        <li>🛠️ Built with <b>Flutter &amp; Dart</b> (Android 10+)</li>
-        <li>🔄 Installed copies <b>update themselves</b> when a new release is published</li>
-        <li>🎨 Languages, themes and auto-update ready — translation features landing next</li>
+        <li>🗣️ <b>Spoken translation both ways</b> — their words in your earphones, your reply aloud on the phone speaker</li>
+        <li>🎧 <b>Hands-free</b> Listen mode takes turns by itself, with automatic language detection on Android 14+</li>
+        <li>📴 <b>Offline translation</b> after a one-time download, and conversations keep going with the screen off</li>
+        <li>🛠️ Built with <b>Flutter &amp; Dart</b> (Android 10+) — installed copies <b>update themselves</b> · 6 releases in 9 days</li>
       </ul>
       <p>
         <a href="https://anuvaad-app.vercel.app/download"><img src="https://img.shields.io/badge/Download-APK-34d399?style=for-the-badge&logo=android&logoColor=white&labelColor=05070d" alt="Download APK" /></a>
